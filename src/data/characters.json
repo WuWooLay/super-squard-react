@@ -1,0 +1,59 @@
+[
+    {
+        "id": 0,
+        "name": "Thor",
+        "image": "https://images.indianexpress.com/2018/04/avengers-thor.jpg",
+        "strength": 10,
+        "intelligence": 8,
+        "speed": 9
+    },
+    {
+        "id": 1,
+        "name": "Iron Man",
+        "image": "https://images.indianexpress.com/2018/04/avengers-iron-man.jpg",
+        "strength": 8,
+        "intelligence": 10,
+        "speed": 8
+    },
+    {
+        "id": 2,
+        "name": "Captain",
+        "image": "https://images.indianexpress.com/2018/04/avengers-captain-america.jpg",
+        "strength": 10,
+        "intelligence": 8,
+        "speed": 8
+    },
+    {
+        "id": 3,
+        "name": "Doctor Strange",
+        "image": "https://images.indianexpress.com/2018/04/avengers-doctorstrange.jpg",
+        "strength": 8,
+        "intelligence": 10,
+        "speed": 9
+    },
+    {
+        "id": 4,
+        "name": "Star-Lord",
+        "image": "https://images.indianexpress.com/2018/04/avengers-starlord.jpg",
+        "strength": 8,
+        "intelligence": 8,
+        "speed": 8
+    },
+    {
+        "id": 5,
+        "name": "Black Panther",
+        "image": "https://images.indianexpress.com/2018/04/avengers-blackpanther.jpg",
+        "strength": 9,
+        "intelligence": 8,
+        "speed": 8
+    },
+    {
+        "id": 6,
+        "name": "Hulk",
+        "image": "https://images.indianexpress.com/2018/04/avengers-hulk.jpg",
+        "strength": 10,
+        "intelligence": 8,
+        "speed": 8
+    }
+    
+]
